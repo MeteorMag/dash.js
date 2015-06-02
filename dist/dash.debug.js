@@ -11568,7 +11568,7 @@ MediaPlayer.utils.DOMStorage.prototype = {
 
 MediaPlayer.utils.Debug = function() {
     "use strict";
-    var logToBrowserConsole = true, showLogTimestamp = false, showCalleeName = false, startTime = new Date().getTime(), eventBus;
+    var logToBrowserConsole = false, showLogTimestamp = false, showCalleeName = false, startTime = new Date().getTime(), eventBus;
     return {
         system: undefined,
         eventBus: undefined,
