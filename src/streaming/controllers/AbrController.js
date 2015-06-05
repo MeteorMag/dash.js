@@ -395,7 +395,7 @@ MediaPlayer.dependencies.AbrController.eventList = {
 };
 
 // Default initial video bitrate, kbps
-MediaPlayer.dependencies.AbrController.DEFAULT_VIDEO_BITRATE = 2396;
+MediaPlayer.dependencies.AbrController.DEFAULT_VIDEO_BITRATE = 3626;
 // Default initial audio bitrate, kbps
 MediaPlayer.dependencies.AbrController.DEFAULT_AUDIO_BITRATE = 100;
 MediaPlayer.dependencies.AbrController.ABANDON_LOAD = "abandonload";
