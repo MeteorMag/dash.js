@@ -6335,9 +6335,9 @@ MediaPlayer.dependencies.AbrController.eventList = {
     ENAME_TOP_QUALITY_INDEX_CHANGED: "topQualityIndexChanged"
 };
 
-MediaPlayer.dependencies.AbrController.DEFAULT_VIDEO_BITRATE = 1e3;
+MediaPlayer.dependencies.AbrController.DEFAULT_VIDEO_BITRATE = 1554;
 
-MediaPlayer.dependencies.AbrController.DEFAULT_AUDIO_BITRATE = 100;
+MediaPlayer.dependencies.AbrController.DEFAULT_AUDIO_BITRATE = 56;
 
 MediaPlayer.dependencies.AbrController.ABANDON_LOAD = "abandonload";
 
